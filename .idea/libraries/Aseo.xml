@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Aseo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Aseo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
