@@ -9,7 +9,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.ListAdapter;
 import android.widget.ListView;
-public class AmazingListView extends ListView implements HasMorePagesListener {
+public class AmazingListView extends ListView implements AmazingAdapter.HasMorePagesListener {
     public static final String TAG = AmazingListView.class.getSimpleName();
 
     View listFooter;

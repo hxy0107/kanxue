@@ -61,4 +61,3 @@ public class RefreshActionBtn extends RelativeLayout {
         return (a != null)?!a.hasEnded():false;
     }
 }
-

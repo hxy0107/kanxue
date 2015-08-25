@@ -131,4 +131,3 @@ public class XListViewHeader extends LinearLayout{
         mHeaderTimeView.setText(time);
     }
 }
-

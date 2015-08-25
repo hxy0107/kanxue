@@ -222,4 +222,3 @@ public class ImageViewWithCache extends ImageView {
         this.setImageUrl(url, null);
     }
 }
-

@@ -108,4 +108,3 @@ public class XListViewFooter extends LinearLayout{
         mHintView = (TextView)moreView.findViewById(R.id.xlistview_footer_hint_textview);
     }
 }
-
